@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/GRU_STOCK_BACKTESTER_Banner.png" alt="GRU Stock Backtester - AI + Finance" width="100%">
+</p>
+
+
 🧠 AI-Powered Stock Backtester with GRU + Sentiment & Technical Indicators
 This project combines deep learning with technical analysis and sentiment simulation to create an intelligent stock trading backtester. Using a multivariate GRU model and rule-based trade logic, it forecasts price movement and evaluates trade decisions over a 15-year historical window.
 
@@ -76,3 +81,5 @@ Add true sentiment data via APIs (e.g. news or Twitter)
 Deploy as an API with Flask or FastAPI
 
 Add front-end dashboard (Plotly/Dash)
+
+Added custom banner to README
