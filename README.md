@@ -33,7 +33,7 @@
    `jupyter notebook notebooks/gru_backtest_demo.ipynb`
 
 
-🚀 Features
+## 🚀 Features
 Multivariate GRU neural network trained on:
 
 RSI, MACD, Volume Shift
@@ -61,7 +61,7 @@ Sharpe Ratio
 Final Portfolio Value
 
 
-📈 Tested Assets
+## 📈 Tested Assets
 Apple (AAPL)
 
 Amazon (AMZN)
@@ -71,7 +71,7 @@ Tesla (TSLA)
 Microsoft (MSFT)
 
 
-🧪 Evaluation Snapshot
+## 🧪 Evaluation Snapshot
 {
   'AAPL': {'CAGR': '-0.17%', 'Final Value': 9745.86, 'Sharpe': -0.15},
   'AMZN': {'CAGR': '-0.27%', 'Final Value': 9606.56, 'Sharpe': -0.25},
@@ -81,7 +81,7 @@ Microsoft (MSFT)
 
 
 
-🛠️ Requirements
+## 🛠️ Requirements
 See requirements.txt. Core dependencies include:
 numpy
 pandas
@@ -92,7 +92,7 @@ tensorflow
 scikit-learn
 
 
-📁 File Structure
+## 📁 File Structure
 stock_backtester.ipynb — full pipeline from GRU training to backtest
 
 requirements.txt — dependency list
@@ -100,7 +100,7 @@ requirements.txt — dependency list
 README.md — this file
 
 
-🧠 Future Plans
+## 🧠 Future Plans
 Integrate trained GRU instead of rolling predictions
 
 Add true sentiment data via APIs (e.g. news or Twitter)
