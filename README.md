@@ -15,6 +15,9 @@
 
 `gru-stock-backtester` is a deep learning-driven stock market backtesting engine that fuses GRU-based time series forecasting with customizable trading strategies. Designed for financial experimentation and future-facing AI applications, it empowers developers, analysts, and researchers to evaluate market behavior with confidence.
 
+AI-Powered Stock Backtester with GRU + Sentiment & Technical Indicators
+This project combines deep learning with technical analysis and sentiment simulation to create an intelligent stock trading backtester. Using a multivariate GRU model and rule-based trade logic, it forecasts price movement and evaluates trade decisions over a 15-year historical window.
+
 ## 🧰 Key Features
 
 - 📈 GRU-powered predictive modeling for stock price movements
@@ -22,8 +25,6 @@
 - 📊 Visual performance tracking of trades vs. predictions
 - 📂 Modular architecture for easy strategy swap-ins
 
-🧠 AI-Powered Stock Backtester with GRU + Sentiment & Technical Indicators
-This project combines deep learning with technical analysis and sentiment simulation to create an intelligent stock trading backtester. Using a multivariate GRU model and rule-based trade logic, it forecasts price movement and evaluates trade decisions over a 15-year historical window.
 
 ## 🔧 Getting Started
 
@@ -33,6 +34,7 @@ This project combines deep learning with technical analysis and sentiment simula
    `pip install -r requirements.txt`
 3. Run the demo notebook  
    `jupyter notebook notebooks/gru_backtest_demo.ipynb`
+
 
 🚀 Features
 Multivariate GRU neural network trained on:
