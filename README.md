@@ -74,8 +74,11 @@ Microsoft (MSFT)
 ##  Evaluation Snapshot
 {
   'AAPL': {'CAGR': '-0.17%', 'Final Value': 9745.86, 'Sharpe': -0.15},
+  
   'AMZN': {'CAGR': '-0.27%', 'Final Value': 9606.56, 'Sharpe': -0.25},
+  
   'MSFT': {'CAGR': '-0.78%', 'Final Value': 8891.12, 'Sharpe': -0.46},
+  
   'TSLA': {'CAGR': '0.94%',  'Final Value': 11446.97, 'Sharpe': 0.33}
 }
 
